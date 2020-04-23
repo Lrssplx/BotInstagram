@@ -14,3 +14,4 @@ Bot criado a partir do JavaScript puro para seguir pessoas de maneira automatiza
 ![sel2](https://user-images.githubusercontent.com/40647391/80059901-8f12ee00-8503-11ea-8ef7-5fde62cca188.png)
 
 ##### Executando o script temos:
+![result](https://user-images.githubusercontent.com/40647391/80060102-13fe0780-8504-11ea-893e-0c7d2bba8be6.png)
