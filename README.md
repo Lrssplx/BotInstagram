@@ -11,3 +11,6 @@ Bot criado a partir do JavaScript puro para seguir pessoas de maneira automatiza
 ![sel](https://user-images.githubusercontent.com/40647391/80059472-76560880-8502-11ea-8a46-6faa6d79069c.png)
 
 ##### Após isso abra o console do seu navegador e use script passando o contéudo dos button class respectivamente "Seguir" e "Seguindo" 
+![sel2](https://user-images.githubusercontent.com/40647391/80059901-8f12ee00-8503-11ea-8ef7-5fde62cca188.png)
+
+##### Executando o script temos:
